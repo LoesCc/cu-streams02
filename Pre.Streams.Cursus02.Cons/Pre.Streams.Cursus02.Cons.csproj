@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Pre.Streams.Cursus02.Core\Pre.Streams.Cursus02.Core.csproj" />
+  </ItemGroup>
+
 </Project>
